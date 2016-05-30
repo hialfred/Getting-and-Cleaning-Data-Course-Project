@@ -1,10 +1,10 @@
 ﻿# Getting-and-Cleaning-Data-Course-Project
 
-## Raw Data
+## 0. Raw Data
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-## Files
+## 1. Files
 
 #### Training files
 
@@ -26,7 +26,7 @@ subject_test.txt
 
 #### activity_labels.txt
 
-## Tasks
+## 2. Tasks
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -35,5 +35,5 @@ subject_test.txt
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 The R code for data prosessing is stored as run_analysis.R and processed dataset is stored as processed_data.txt.
 
-## Code Book
+## 3. Code Book
 codebook.md describes the variables in the resulting processed_data.txt
