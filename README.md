@@ -22,9 +22,9 @@ Y_test.txt
 
 subject_test.txt
 
-## features.txt
+#### features.txt
 
-## activity_labels.txt
+#### activity_labels.txt
 
 ## Tasks
 
